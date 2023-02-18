@@ -1,4 +1,4 @@
-[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZhYjAxZDczODkzMjA4MGU3NWZmYTYzZGNlOWNjY2RhYzYxNmRiOSZjdD1n/3o7buiO0t8uLXHBDXO/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZhYjAxZDczODkzMjA4MGU3NWZmYTYzZGNlOWNjY2RhYzYxNmRiOSZjdD1n/3o7buiO0t8uLXHBDXO/giphy.gif)
 
 <!--
 **timcmorrison/timcmorrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
